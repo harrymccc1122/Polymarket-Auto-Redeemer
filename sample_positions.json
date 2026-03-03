@@ -1,0 +1,16 @@
+[
+  {
+    "conditionId": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "collateralToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "parentCollectionId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "indexSet": 1,
+    "tokenBalanceWei": "5000000"
+  },
+  {
+    "conditionId": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "collateralToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "parentCollectionId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "indexSet": 2,
+    "tokenBalanceWei": "7000000"
+  }
+]
